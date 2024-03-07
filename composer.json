@@ -22,7 +22,7 @@
     "redsys/messages": "*",
     "guzzlehttp/psr7": "^1.4",
     "php-http/message": "^1.7",
-    "symfony/http-client": "^5.4",
+    "symfony/http-client": "^5.4 || ^6.0",
     "php-http/httplug": "^2.4",
     "http-interop/http-factory-guzzle": "^1.2"
   },
